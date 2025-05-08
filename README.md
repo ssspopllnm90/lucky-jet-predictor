@@ -1,1 +1,1 @@
-# lucky-jet-predictor
+# lucky-jet-predictor.apk
